@@ -1,0 +1,562 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{415FE915-A968-0F4A-7FE7-0CD376FEDDB2}|Tests\\Tests.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{415FE915-A968-0F4A-7FE7-0CD376FEDDB2}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FE915-A968-0F4A-7FE7-0CD376FEDDB2}|Tests\\Tests.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\tests\\commandparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415FE915-A968-0F4A-7FE7-0CD376FEDDB2}|Tests\\Tests.csproj|solutionrelative:tests\\commandparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\core\\filesystem\\proxynode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|solutionrelative:core\\filesystem\\proxynode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\presentation\\parser\\connectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\parser\\connectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\presentation\\parser\\commandparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\parser\\commandparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\presentation\\parser\\commandhandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\parser\\commandhandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\presentation\\parser\\treelistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\parser\\treelistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\presentation\\parser\\treegotocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\parser\\treegotocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\presentation\\parser\\fileshowcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\parser\\fileshowcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\presentation\\parser\\filerenamecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\parser\\filerenamecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\presentation\\parser\\filemovecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\parser\\filemovecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\presentation\\parser\\filedeletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\parser\\filedeletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\presentation\\parser\\filecopycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\parser\\filecopycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\presentation\\parser\\disconnectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\parser\\disconnectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\presentation\\output\\consoleoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F40ECD-6B02-7FC5-5A2B-56EC3BE1CBB3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\output\\consoleoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\core\\sessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|solutionrelative:core\\sessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\core\\isessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|solutionrelative:core\\isessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\core\\filesystem\\proxydirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|solutionrelative:core\\filesystem\\proxydirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\core\\filesystem\\idirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|solutionrelative:core\\filesystem\\idirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\core\\filesystem\\realfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|solutionrelative:core\\filesystem\\realfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\core\\filesystem\\nodefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|solutionrelative:core\\filesystem\\nodefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\core\\commands\\filerenamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|solutionrelative:core\\commands\\filerenamecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\core\\commands\\filecommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|solutionrelative:core\\commands\\filecommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\core\\filesystem\\systemabstraction\\localfilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|solutionrelative:core\\filesystem\\systemabstraction\\localfilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\core\\filesystem\\systemabstraction\\ifilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|solutionrelative:core\\filesystem\\systemabstraction\\ifilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\core\\filesystem\\realdirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|solutionrelative:core\\filesystem\\realdirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|c:\\proga\\c_sharp\\pulickgitprojects\\file system maneger\\core\\commands\\connectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F502835-A6CA-12EF-27A6-8E5BB84CEF21}|Core\\Core.csproj|solutionrelative:core\\commands\\connectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proga\\C_Sharp\\PulickGitProjects\\File system\\File System Maneger\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAANETAAAAAAAAAAAQwOQTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-01T13:37:07.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.csproj",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Tests\\Tests.csproj",
+              "RelativeDocumentMoniker": "Tests\\Tests.csproj",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Tests\\Tests.csproj",
+              "RelativeToolTip": "Tests\\Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-01T12:53:34.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommandParserTests.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Tests\\CommandParserTests.cs",
+              "RelativeDocumentMoniker": "Tests\\CommandParserTests.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Tests\\CommandParserTests.cs",
+              "RelativeToolTip": "Tests\\CommandParserTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAawCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:23:46.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConnectCommandHandler.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\ConnectCommandHandler.cs",
+              "RelativeDocumentMoniker": "Presentation\\Parser\\ConnectCommandHandler.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\ConnectCommandHandler.cs",
+              "RelativeToolTip": "Presentation\\Parser\\ConnectCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:19:10.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:20:13.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-01T12:31:00.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProxyNode.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\ProxyNode.cs",
+              "RelativeDocumentMoniker": "Core\\FileSystem\\ProxyNode.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\ProxyNode.cs",
+              "RelativeToolTip": "Core\\FileSystem\\ProxyNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:14:24.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommandParser.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\CommandParser.cs",
+              "RelativeDocumentMoniker": "Presentation\\Parser\\CommandParser.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\CommandParser.cs",
+              "RelativeToolTip": "Presentation\\Parser\\CommandParser.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:19:04.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Presentation.csproj",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Presentation.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Presentation.csproj",
+              "RelativeToolTip": "Presentation\\Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-01T12:31:32.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommandHandlerBase.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\CommandHandlerBase.cs",
+              "RelativeDocumentMoniker": "Presentation\\Parser\\CommandHandlerBase.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\CommandHandlerBase.cs",
+              "RelativeToolTip": "Presentation\\Parser\\CommandHandlerBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:17:45.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TreeListCommandHandler.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\TreeListCommandHandler.cs",
+              "RelativeDocumentMoniker": "Presentation\\Parser\\TreeListCommandHandler.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\TreeListCommandHandler.cs",
+              "RelativeToolTip": "Presentation\\Parser\\TreeListCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:23:14.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TreeGotoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\TreeGotoCommandHandler.cs",
+              "RelativeDocumentMoniker": "Presentation\\Parser\\TreeGotoCommandHandler.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\TreeGotoCommandHandler.cs",
+              "RelativeToolTip": "Presentation\\Parser\\TreeGotoCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:23:07.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileShowCommandHandler.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\FileShowCommandHandler.cs",
+              "RelativeDocumentMoniker": "Presentation\\Parser\\FileShowCommandHandler.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\FileShowCommandHandler.cs",
+              "RelativeToolTip": "Presentation\\Parser\\FileShowCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:23:03.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileRenameCommandHandler.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\FileRenameCommandHandler.cs",
+              "RelativeDocumentMoniker": "Presentation\\Parser\\FileRenameCommandHandler.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\FileRenameCommandHandler.cs",
+              "RelativeToolTip": "Presentation\\Parser\\FileRenameCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:22:58.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileMoveCommandHandler.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\FileMoveCommandHandler.cs",
+              "RelativeDocumentMoniker": "Presentation\\Parser\\FileMoveCommandHandler.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\FileMoveCommandHandler.cs",
+              "RelativeToolTip": "Presentation\\Parser\\FileMoveCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:22:53.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileDeleteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\FileDeleteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Presentation\\Parser\\FileDeleteCommandHandler.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\FileDeleteCommandHandler.cs",
+              "RelativeToolTip": "Presentation\\Parser\\FileDeleteCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:22:48.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileCopyCommandHandler.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\FileCopyCommandHandler.cs",
+              "RelativeDocumentMoniker": "Presentation\\Parser\\FileCopyCommandHandler.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\FileCopyCommandHandler.cs",
+              "RelativeToolTip": "Presentation\\Parser\\FileCopyCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:22:43.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DisconnectCommandHandler.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\DisconnectCommandHandler.cs",
+              "RelativeDocumentMoniker": "Presentation\\Parser\\DisconnectCommandHandler.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Parser\\DisconnectCommandHandler.cs",
+              "RelativeToolTip": "Presentation\\Parser\\DisconnectCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:22:36.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConsoleOutput.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Output\\ConsoleOutput.cs",
+              "RelativeDocumentMoniker": "Presentation\\Output\\ConsoleOutput.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Presentation\\Output\\ConsoleOutput.cs",
+              "RelativeToolTip": "Presentation\\Output\\ConsoleOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:22:28.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDirectory.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\IDirectory.cs",
+              "RelativeDocumentMoniker": "Core\\FileSystem\\IDirectory.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\IDirectory.cs",
+              "RelativeToolTip": "Core\\FileSystem\\IDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:10:02.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProxyDirectory.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\ProxyDirectory.cs",
+              "RelativeDocumentMoniker": "Core\\FileSystem\\ProxyDirectory.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\ProxyDirectory.cs",
+              "RelativeToolTip": "Core\\FileSystem\\ProxyDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:10:19.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISessionContext.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\ISessionContext.cs",
+              "RelativeDocumentMoniker": "Core\\ISessionContext.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\ISessionContext.cs",
+              "RelativeToolTip": "Core\\ISessionContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T12:32:15.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SessionContext.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\SessionContext.cs",
+              "RelativeDocumentMoniker": "Core\\SessionContext.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\SessionContext.cs",
+              "RelativeToolTip": "Core\\SessionContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T12:56:17.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RealFile.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\RealFile.cs",
+              "RelativeDocumentMoniker": "Core\\FileSystem\\RealFile.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\RealFile.cs",
+              "RelativeToolTip": "Core\\FileSystem\\RealFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:14:36.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NodeFactory.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\NodeFactory.cs",
+              "RelativeDocumentMoniker": "Core\\FileSystem\\NodeFactory.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\NodeFactory.cs",
+              "RelativeToolTip": "Core\\FileSystem\\NodeFactory.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:14:19.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FileRenameCommand.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\Commands\\FileRenameCommand.cs",
+              "RelativeDocumentMoniker": "Core\\Commands\\FileRenameCommand.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\Commands\\FileRenameCommand.cs",
+              "RelativeToolTip": "Core\\Commands\\FileRenameCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:14:12.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileCommandBase.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\Commands\\FileCommandBase.cs",
+              "RelativeDocumentMoniker": "Core\\Commands\\FileCommandBase.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\Commands\\FileCommandBase.cs",
+              "RelativeToolTip": "Core\\Commands\\FileCommandBase.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:13:39.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LocalFileSystem.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\SystemAbstraction\\LocalFileSystem.cs",
+              "RelativeDocumentMoniker": "Core\\FileSystem\\SystemAbstraction\\LocalFileSystem.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\SystemAbstraction\\LocalFileSystem.cs",
+              "RelativeToolTip": "Core\\FileSystem\\SystemAbstraction\\LocalFileSystem.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:12:08.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IFIleSystem.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\SystemAbstraction\\IFIleSystem.cs",
+              "RelativeDocumentMoniker": "Core\\FileSystem\\SystemAbstraction\\IFIleSystem.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\SystemAbstraction\\IFIleSystem.cs",
+              "RelativeToolTip": "Core\\FileSystem\\SystemAbstraction\\IFIleSystem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:11:58.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RealDirectory.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\RealDirectory.cs",
+              "RelativeDocumentMoniker": "Core\\FileSystem\\RealDirectory.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\FileSystem\\RealDirectory.cs",
+              "RelativeToolTip": "Core\\FileSystem\\RealDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:10:34.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ConnectCommand.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\Commands\\ConnectCommand.cs",
+              "RelativeDocumentMoniker": "Core\\Commands\\ConnectCommand.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File System Maneger\\Core\\Commands\\ConnectCommand.cs",
+              "RelativeToolTip": "Core\\Commands\\ConnectCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T12:57:43.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAQwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-01T12:35:07.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAF8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-01T12:35:02.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File system\\File System Maneger\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\File system\\File System Maneger\\Class1.cs",
+              "ToolTip": "C:\\Proga\\C_Sharp\\PulickGitProjects\\File system\\File System Maneger\\Class1.cs",
+              "RelativeToolTip": "..\\File system\\File System Maneger\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T12:18:23.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
